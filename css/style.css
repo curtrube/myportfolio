@@ -1,0 +1,9 @@
+body {
+    background: #e6e6e6;
+}
+
+#portrait-headshot {
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 15%;
+}

@@ -4,9 +4,9 @@ Professionally hosted with Custom Domain
 
 Responsive
 
-About Section
-Skills
-Coding Challenges
-Projects
-Blog
-Contact
+1. About Section
+1. Skills
+1. Coding Challenges
+1. Projects
+1. Blog
+1. Contact

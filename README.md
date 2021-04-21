@@ -1,8 +1,8 @@
 # Curtis Rubeck Portfolio
 
 Professionally hosted
-*Custom domain name: curtisrubeck.com
-*SSL certificate
+* Custom domain name: curtisrubeck.com
+* SSL certificate
 
 Responsive
 
